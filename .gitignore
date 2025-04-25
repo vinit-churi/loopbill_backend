@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Virtual environment related
+.venv/
+venv/
+
+# uv-related (though uv.lock should be committed)
+# If you had other package managers before:
+# .pip-cache/
+# poetry.lock
+
+# IDE-specific files
+.idea/
+*.iml
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
